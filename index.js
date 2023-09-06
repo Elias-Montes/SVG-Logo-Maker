@@ -38,4 +38,5 @@ inquirer.prompt(promptquestions).then (res => {
         shape=new Triangle(res.shapecolor,res.shapetext,res.textcolor)
     };
     fs.writeFileSync("./examples/logo.svg",shape.render())
+    console.log("Generated logo.svg")
 })
