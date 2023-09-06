@@ -1,4 +1,14 @@
 {
+  "name": "logogenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "Examples",
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.10"
   },
