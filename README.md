@@ -41,3 +41,15 @@
   - Github: Elias-Montes
   - Email: eliasmontes911@gmail.com
   
+  ## Tutorial Video
+
+  ![video](./Images/SVG%20logo%20vid.gif)
+  Video link: https://drive.google.com/file/d/16PCg0dGYl3wmZNnKCL8T0HXWSFSDYbRm/view?usp=sharing
+
+  ## Special Thanks
+
+  Stack Overflow\
+  Stack Exchange\
+  Veed.io\
+  MDN Docs\
+  Google
